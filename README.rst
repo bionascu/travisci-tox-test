@@ -2,12 +2,12 @@
 travisci-tox-test
 ========================
 
-.. image:: https://travis-ci.org/bionascu/pytest-ck-pytest-plugin3.svg?branch=master
-    :target: https://travis-ci.org/bionascu/pytest-ck-pytest-plugin3
+.. image:: https://travis-ci.org/bionascu/travisci-tox-test.svg?branch=master
+    :target: https://travis-ci.org/bionascu/travisci-tox-test
     :alt: See Build Status on Travis CI
 
-.. image:: https://ci.appveyor.com/api/projects/status/github/bionascu/pytest-ck-pytest-plugin3?branch=master
-    :target: https://ci.appveyor.com/project/bionascu/pytest-ck-pytest-plugin3/branch/master
+.. image:: https://ci.appveyor.com/api/projects/status/github/bionascu/travisci-tox-test?branch=master
+    :target: https://ci.appveyor.com/project/bionascu/travisci-tox-test/branch/master
     :alt: See Build Status on AppVeyor
 
 A simple plugin to use with Pytest
