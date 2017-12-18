@@ -1,5 +1,5 @@
 ========================
-pytest-ck-pytest-plugin3
+travisci-tox-test
 ========================
 
 .. image:: https://travis-ci.org/bionascu/pytest-ck-pytest-plugin3.svg?branch=master
